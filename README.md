@@ -13,7 +13,6 @@
 
 Hi, I'm Saloni Prasad 👋  
 A passionate Computer Science student who enjoys building real-world applications and continuously learning new technologies.
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
@@ -24,22 +23,23 @@ A passionate Computer Science student who enjoys building real-world application
 - Learning full stack development 
 
 
-
+---
 ## Currently Learning
 - Advanced Web Development  
 - Backend Concepts  
 - Machine Learning, Deep Learning
 
 ---
+<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍💻 All of my projects are available at  
 🔗 https://github.com/saloni1122005-lang  
-
 - 📫 How to reach me  
  **saloni1122005@gmail.com**
 
  Fun fact  
 😄 I enjoy learning new technologies  
+
 
 ---
 
