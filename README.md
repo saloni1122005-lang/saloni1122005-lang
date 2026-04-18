@@ -10,9 +10,12 @@
 </p>
 
 ## 🌟 About Me
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 Hi, I'm Saloni Prasad 👋  
 A passionate Computer Science student who enjoys building real-world applications and continuously learning new technologies.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 
 ## What I’m Working On
 
